@@ -1,0 +1,15 @@
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\bin\Debug\study_progress.exe.config
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\bin\Debug\study_progress.exe
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\bin\Debug\study_progress.pdb
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.csprojResolveAssemblyReference.cache
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\MainWindow.g.cs
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\App.g.cs
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress_MarkupCompile.cache
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress_MarkupCompile.lref
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\MainWindow.baml
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.g.resources
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.Properties.Resources.resources
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.csproj.GenerateResource.cache
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.csproj.CoreCompileInputs.cache
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.exe
+C:\Users\dmitriy\Documents\Курсовая ТРПО\prog\study_progress\study_progress\obj\Debug\study_progress.pdb
